@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132814776514",
+    "project_id": "cslovers-945cb",
+    "storage_bucket": "cslovers-945cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132814776514:android:8ea01c6fafdfcc63a3b35b",
+        "android_client_info": {
+          "package_name": "hu.ait.cslovers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlshAwr7-ziIjWMOCvb9kJ7Psyh0TiR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
